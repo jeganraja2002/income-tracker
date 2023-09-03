@@ -1,0 +1,35 @@
+
+ @media (max-width:767px){
+
+.visible{
+	visibility: hidden !important;
+	opacity: 0;
+	transition: .3s;
+	position: absolute;
+	transform: translateX(-200px);
+}
+
+
+
+
+
+	 }
+
+
+
+
+
+
+ @media(min-width:768px) and (max-width:992px){
+
+.visible{
+	visibility: hidden !important;
+	opacity: 0;
+	transition: .3s;
+	position: absolute;
+	transform: translateX(-350px);
+}
+
+
+
+ 	} 
