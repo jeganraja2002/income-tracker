@@ -6,7 +6,8 @@
 	opacity: 0;
 	transition: .3s;
 	position: absolute;
-	transform: translateX(-200px);
+	left: 170px;
+	right: 170px;
 }
 
 
@@ -27,7 +28,8 @@
 	opacity: 0;
 	transition: .3s;
 	position: absolute;
-	transform: translateX(-350px);
+	left: 337px;
+	right: 329px;
 }
 
 
